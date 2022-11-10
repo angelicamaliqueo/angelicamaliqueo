@@ -23,9 +23,16 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+<h3><📊> Estadísticas de Github <📊/> </h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicamaliqueo_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicamaliqueo=compact&show_icons=true&theme=radical)](https://github.com/angelicamaliqueo/angelicamaliqueo/edit/main/README.md)
+
+
 <h3> Información Personal:</h3>
 
-<a href="https://www.linkedin.com/in/angelica-maria-maliqueo-rumian-057241246/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
