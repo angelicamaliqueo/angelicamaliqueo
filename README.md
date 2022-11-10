@@ -23,5 +23,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+<h3> Información Personal:</h3>
+
+<a href="https://www.linkedin.com/in/angelica-maria-maliqueo-rumian-057241246/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
