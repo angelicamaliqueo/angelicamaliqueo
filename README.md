@@ -1,7 +1,11 @@
-### Hi there 👋
+
+
+
+### Hola Soy Angélica Maliqueo 👋
+
+![Image text center](https://conceptodefinicion.de/wp-content/uploads/2019/08/Informática-.jpg)
 
 <!--
-**angelicamaliqueo/angelicamaliqueo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
