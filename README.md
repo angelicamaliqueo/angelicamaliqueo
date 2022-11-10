@@ -3,7 +3,7 @@
 
 🎓 Hola Soy Angélica Maliqueo 👨🏽‍🎓 👋
 
-![Image text center](https://conceptodefinicion.de/wp-content/uploads/2019/08/Informática-.jpg)
+![Image text center](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)
 
 👩🏽‍💻 Enfocada al Desarrollo Front End, Alto sentido de superación, responsable, paciente, con experiencia para realizar trabajos en equipo, bajo presión 
 
