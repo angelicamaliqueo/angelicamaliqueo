@@ -31,10 +31,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicamaliqueo&layout=compact&langs_count=7&theme=dracula"/>
   
   </div>
-
+<div>
 <h3> Información Personal:</h3>
 
 <a href="" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-
+ ![Snake animation](https://github.com/angelicamaliqueo/angelicamaliqueo/blob/output/github-contribution-grid-snake.svg)
+  </div>
