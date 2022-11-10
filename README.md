@@ -1,14 +1,11 @@
+<div id="header" align="center">
 
-
-
-🎓 Hola Soy Angélica Maliqueo 👨🏽‍🎓 👋
-
-![Image text center](https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif)
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" />
 
 👩🏽‍💻 Enfocada al Desarrollo Front End, Alto sentido de superación, responsable, paciente, con experiencia para realizar trabajos en equipo, bajo presión 
 
 
-
+</div>
 ✨Habilidades</h10>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
