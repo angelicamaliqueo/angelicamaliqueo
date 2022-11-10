@@ -35,6 +35,8 @@
 <h3> Información Personal:</h3>
 
 <a href="" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
- ![Snake animation](https://github.com/angelicamaliqueo/angelicamaliqueo/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+ ![Snake animation](https://github.com/angelicamaliqueo/angelicamaliqueo/blob/output/github-contribution-grid-snake.svg)
+  
+  
