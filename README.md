@@ -25,10 +25,11 @@
 
 <h3><📊> Estadísticas de Github <📊/> </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelicamaliqueo_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicamaliqueo=compact&show_icons=true&theme=radical)](https://github.com/angelicamaliqueo/angelicamaliqueo/edit/main/README.md)
-
+<div>
+  <a href="https://github.com/angelicamaliqueo">
+    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=angelicamaliqueo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  </div>
 
 <h3> Información Personal:</h3>
 
