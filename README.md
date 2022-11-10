@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200" />
 
-  <h1 align="center"> Hola Soy Angélica Maliqueo</h1>
+  <h1 align="center"> <img src="https://media.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="10"/>Hola Soy Angélica Maliqueo</h1>
   <h3 align="center">Enfocada al Desarrollo Front End, Alto sentido de superación, responsable, paciente, con experiencia para realizar trabajos en equipo, bajo presión</h3>
 </div>
 ✨Habilidades</h10>
